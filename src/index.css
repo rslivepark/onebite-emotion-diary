@@ -1,0 +1,27 @@
+@import url('https://cdn.jsdelivr.net/gh/wanteddev/wanted-sans@v1.0.3/packages/wanted-sans/fonts/webfonts/variable/complete/WantedSansVariable.min.css');
+
+* {
+  font-family: 'Wanted Sans Variable';
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+html,
+body {
+  margin: 0;
+  width: 100%;
+  background-color: var(--light);
+}
+
+#root {
+  background-color: white;
+  max-width: 600px;
+  width: 100%;
+  min-height: 100vh;
+  height: 100%;
+  margin: 0 auto;
+  /* box-shadow */
+  padding: 0 1.2rem;
+}
