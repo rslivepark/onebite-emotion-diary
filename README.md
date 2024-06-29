@@ -5,6 +5,11 @@
 
 ### 미리보기
 
+- Github  
+  https://github.com/rslivepark/onebite-emotion-diary.git
+
+- 배포
+
 ### 구현 기능
 
 - 오늘의 기분을 입력, 수정, 삭제할 수 있습니다.
