@@ -1,0 +1,35 @@
+.Editor > section {
+  margin-bottom: 2rem;
+}
+.Editor > section > h4 {
+  font-size: 1.2rem;
+  margin: 2rem 0 1rem 0;
+}
+
+.Editor > section > input,
+textarea {
+  background-color: rgb(236, 236, 236);
+  border: none;
+  border-radius: 0.4rem;
+  font-size: 1rem;
+  padding: 0.4rem;
+}
+
+.Editor > section > textarea {
+  padding: 0.4rem;
+  width: 100%;
+  min-height: 200px;
+  resize: vertical;
+  box-sizing: border-box;
+}
+
+.Editor .emotion_section .emotion_list_wrapper {
+  display: flex;
+  justify-content: space-around;
+  gap: 1rem;
+}
+
+.Editor .button_section {
+  display: flex;
+  justify-content: space-between;
+}

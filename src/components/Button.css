@@ -5,12 +5,13 @@
   border: none;
   border-radius: 0.4rem;
   padding: 0.8rem;
-  font-size: 18px;
+  font-size: 14px;
+  font-weight: 600;
   white-space: nowrap;
 }
 
 .Button_POSITIVE {
-  background-color: var(--lightgreen);
+  background-color: var(--green);
   color: white;
 }
 
