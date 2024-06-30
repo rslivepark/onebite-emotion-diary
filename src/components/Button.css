@@ -11,11 +11,19 @@
 }
 
 .Button_POSITIVE {
-  background-color: var(--green);
+  background-color: #64c964;
   color: white;
 }
 
 .Button_NEGATIVE {
-  background-color: var(--red);
+  background-color: #fd565f;
   color: white;
 }
+
+/* 
+  --green: #64c964;
+  --lightgreen: #9dd772;
+  --yellow: #fdce17;
+  --orange: #fd8446;
+  --red: #fd565f;
+   */

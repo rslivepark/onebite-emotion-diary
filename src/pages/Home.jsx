@@ -1,6 +1,5 @@
 import React, { useState, useContext } from 'react';
 import { DiaryStateContext } from '../App';
-import './Home.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faAngleLeft, faAngleRight } from '@fortawesome/free-solid-svg-icons';
 
