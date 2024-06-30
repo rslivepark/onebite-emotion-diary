@@ -8,7 +8,8 @@
 - Github  
   https://github.com/rslivepark/onebite-emotion-diary.git
 
-- 배포
+- 배포  
+  https://eloquent-pithivier-c26300.netlify.app/
 
 ### 구현 기능
 
